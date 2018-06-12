@@ -1,0 +1,15 @@
+[submodule "Arduino-Generic-Libraries"]
+	path = Arduino-Generic-Libraries
+	url = https://github.com/HaiqiangXu/Arduino-Generic-Libraries.git
+[submodule "Arduino-RC-Car"]
+	path = Arduino-RC-Car
+	url = https://github.com/HaiqiangXu/Arduino-RC-Car.git
+[submodule "Arduino-MultiFunctionShield"]
+	path = Arduino-MultiFunctionShield
+	url = https://github.com/HaiqiangXu/Arduino-MultiFunctionShield.git
+[submodule "Arduino-LED-Cube"]
+	path = Arduino-LED-Cube
+	url = https://github.com/HaiqiangXu/Arduino-LED-Cube.git
+[submodule "Arduino-Matrix-LED"]
+	path = Arduino-Matrix-LED
+	url = https://github.com/HaiqiangXu/Arduino-Matrix-LED.git
